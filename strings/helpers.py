@@ -6,7 +6,7 @@ HELP_1 = """
 **/pause veya /durdur**: Çalan akışı duraklatır.
 **/resume veya /devam**: Duraklatılmış akışı devam ettirir.
 **/skip veya /atla **: Çalan akışı atlar ve sıradaki parçayı çalmaya başlar.
-**/end** veya **/bitir**: Sıradaki parçayı atlar ve çalan akışı sonlandırır.
+**/end** veya **/son**: Sıradaki parçayı atlar ve çalan akışı sonlandırır.
 **/player**: Etkileşimli bir oynatıcı paneli alır.
 **/queue veya /liste**: Sıradaki parçaların listesini gösterir.
 """
