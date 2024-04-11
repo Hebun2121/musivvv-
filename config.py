@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6532412571))
+OWNER_ID = int(getenv("OWNER_ID", 6335200063))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mehmetttbio")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/hissizmehmet")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ekselansmalikane")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ekselansmalikane")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,18 +87,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/geHan%C4%B1m-03-19"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/geHan%C4%B1m-03-19"
+    "PING_IMG_URL", ""
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-STATS_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-STREAM_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-YOUTUBE_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+PLAYLIST_IMG_URL = ""
+STATS_IMG_URL = ""
+TELEGRAM_AUDIO_URL = ""
+TELEGRAM_VIDEO_URL = ""
+STREAM_IMG_URL = ""
+SOUNCLOUD_IMG_URL = ""
+YOUTUBE_IMG_URL = ""
+SPOTIFY_ARTIST_IMG_URL = ""
+SPOTIFY_ALBUM_IMG_URL = ""
+SPOTIFY_PLAYLIST_IMG_URL = ""
 
 
 def time_to_seconds(time):
