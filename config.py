@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Mamaklicengo/Mamaklimusic10",
+    "https://github.com/Hebun2121/musivvv-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -84,21 +84,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/geHan%C4%B1m-03-19"
+    "START_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", ""
+    "PING_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
 )
-PLAYLIST_IMG_URL = ""
-STATS_IMG_URL = ""
-TELEGRAM_AUDIO_URL = ""
-TELEGRAM_VIDEO_URL = ""
-STREAM_IMG_URL = ""
-SOUNCLOUD_IMG_URL = ""
-YOUTUBE_IMG_URL = ""
-SPOTIFY_ARTIST_IMG_URL = ""
-SPOTIFY_ALBUM_IMG_URL = ""
-SPOTIFY_PLAYLIST_IMG_URL = ""
+PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+STATS_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/Exelans-04-04-2"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/Exelans-04-04-2"
+STREAM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+YOUTUBE_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
 
 
 def time_to_seconds(time):
