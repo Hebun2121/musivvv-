@@ -84,21 +84,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
+    "START_IMG_URL", "https://te.legra.ph/Andora-04-16"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
+    "PING_IMG_URL", "https://te.legra.ph/Andora-04-16"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-STATS_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/Exelans-04-04-2"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/Exelans-04-04-2"
-STREAM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-YOUTUBE_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+PLAYLIST_IMG_URL = "https://te.legra.ph/Andora-04-16"
+STATS_IMG_URL = "https://te.legra.ph/Andora-04-16"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/Andora-04-16"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/Andora-04-16"
+STREAM_IMG_URL = "https://te.legra.ph/Andora-04-16"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/Andora-04-16"
+YOUTUBE_IMG_URL = "https://te.legra.ph/Andora-04-16"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/Andora-04-16"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/Andora-04-16"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/Andora-04-16"
 
 
 def time_to_seconds(time):
